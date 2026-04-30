@@ -10,13 +10,13 @@ The goal of the project is to make indoor plant care more interactive and approa
 
 ### Demo Picture
 
-![Peperomia demo](./resource/demo-picture.jpeg)
+![Peperomia demo](./resources/demo-picture.jpeg)
 
 ### Demo Video
 
 <video src="./resource/demo-video.mp4" controls width="100%"></video>
 
-[Open the demo video](./resource/demo-video.mp4)
+[Open the demo video](./resources/demo-video.mp4)
 
 > If your repository uses different file extensions, update the paths above to match the actual files in the `resource/` folder.
 
