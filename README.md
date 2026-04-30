@@ -14,11 +14,11 @@ The goal of the project is to make indoor plant care more interactive and approa
 
 ### Demo Video
 
-<video src="./resource/demo-video.mp4" controls width="100%"></video>
+<video src="./resources/demo-video.mp4" controls width="100%"></video>
 
 [Open the demo video](./resources/demo-video.mp4)
 
-> If your repository uses different file extensions, update the paths above to match the actual files in the `resource/` folder.
+> If your repository uses different file extensions, update the paths above to match the actual files in the `resources/` folder.
 
 ---
 
